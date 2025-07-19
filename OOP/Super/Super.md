@@ -72,3 +72,17 @@ Descrição: Valdemort, 500
 ```
 
 ![Arqueiro Elden Ring](assets/arqueiro%20elden%20ring.webp)
+
+
+## 🔹 Vantagens do super()
+
+Como vimos, uma boa prática ao trabalhar com herança em Python é utilizar a função `super()`, que permite chamar métodos da superclasse de forma segura e eficiente. Algumas vantagens de seu uso incluem:
+
+- **Redução de Código**: evita duplicidade ao reutilizar métodos da superclasse, facilitando a manutenção.
+- **Extensibilidade**: permite que subclasses adicionem funcionalidades sem modificar a estrutura base da superclasse.
+- **Organização**: melhora a organização do código ao separar a lógica de métodos comuns e específicos.
+
+---
+
+🔗 **Referência**: [Hashtag Treinamentos – Super em Python](https://www.hashtagtreinamentos.com/super-em-python?conversion=base-py-go-post&gad_source=1&gad_campaignid=15353425825&gclid=Cj0KCQjwhO3DBhDkARIs)
+
